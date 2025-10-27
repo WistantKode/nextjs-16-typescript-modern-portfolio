@@ -1,8 +1,10 @@
 
 export default function Home() {
   return (
-      <div>
-
-      </div>
+      <main className={'relative bg-black'}>
+          <div>
+              <h1>Hello, Portfolio</h1>
+          </div>
+      </main>
   );
 }
