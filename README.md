@@ -30,16 +30,16 @@ Ce projet est un portfolio de développeur moderne et performant, conçu pour pr
 
 Ce projet utilise une stack moderne et robuste pour garantir une base solide et évolutive.
 
-| Catégorie | Technologie | Description |
-| --- | --- | --- |
-| **Framework** | [Next.js 14 (App Router)](https://nextjs.org/) | Framework React pour la production avec rendu hybride. |
-| **Langage** | [TypeScript](https://www.typescriptlang.org/) | Sur-ensemble de JavaScript qui ajoute un typage statique. |
-| **Styling** | [Tailwind CSS](https://tailwindcss.com/) | Framework CSS "utility-first" pour un design rapide et personnalisé. |
-| **UI (Composants)** | [Aceternity UI](https://ui.aceternity.com/) | Collection de composants innovants et prêts à l'emploi. |
-| **UI (Composants)** | [shadcn/ui](https://ui.shadcn.com/) | Composants de base réutilisables et accessibles. |
-| **UI (Design System)**| [Origin UI](https://www.origin-ui.com/) | Design system pour une cohérence visuelle. |
-| **Animations** | [Framer Motion](https://www.framer.com/motion/) | Bibliothèque d'animation pour React. |
-| **Monitoring** | [Sentry](https://sentry.io/) | Suivi des erreurs et des performances applicatives. |
+| Catégorie | Technologie                                                 | Description |
+| --- |-------------------------------------------------------------| --- |
+| **Framework** | [Next.js 16 (App Router)](https://nextjs.org/)              | Framework React pour la production avec rendu hybride. |
+| **Langage** | [TypeScript](https://www.typescriptlang.org/)               | Sur-ensemble de JavaScript qui ajoute un typage statique. |
+| **Styling** | [Tailwind CSS](https://tailwindcss.com/)                    | Framework CSS "utility-first" pour un design rapide et personnalisé. |
+| **UI (Composants)** | [Aceternity UI](https://ui.aceternity.com/)                 | Collection de composants innovants et prêts à l'emploi. |
+| **UI (Composants)** | [shadcn/ui](https://ui.shadcn.com/)                         | Composants de base réutilisables et accessibles. |
+| **UI (Design System)**| [Origin UI](https://www.origin-ui.com/)                     | Design system pour une cohérence visuelle. |
+| **Animations** | [Framer Motion](https://www.framer.com/motion/)             | Bibliothèque d'animation pour React. |
+| **Monitoring** | [Sentry](https://sentry.io/)                                | Suivi des erreurs et des performances applicatives. |
 | **Versioning** | [Git](https://git-scm.com/) & [GitHub](https://github.com/) | Système de contrôle de version et plateforme d'hébergement. |
 
 ## 🚀 Installation et Lancement Local
